@@ -57,7 +57,9 @@ public class Main {
 
         }
 
+
         System.out.println("Задание № 5");
+
 
         int FirstFridayInMonth = 2;                        // 2 число первая пятница месяца КАК ВЫВЕСТИ 2 В КОНСОЛЬ?
 
